@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+	padding: 0;
+    font-size: 100%;
+	border: 0;
+	
+	font: inherit; 
+	vertical-align: baseline;
+   
+    
+}
+
+.image1{
+    width: 50vw;
+    height: 100vh;
+ 
+}
+.top{
+   
+    position: absolute;
+    bottom: 3vh;
+    left: 2vw;
+    color: white;
+    font-size:55px;
+    font-weight: 900;
+    max-width: 50vw;
+z-index: 1;
+}
